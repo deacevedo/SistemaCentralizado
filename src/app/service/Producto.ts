@@ -1,5 +1,3 @@
-import { Categoria } from './Categoria';
-
 export interface Producto{
 
     productos:{
@@ -11,3 +9,4 @@ export interface Producto{
     },
     conteo: number
 }
+
